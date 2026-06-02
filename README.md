@@ -17,7 +17,7 @@
   <a href="mailto:ana.she.po@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://anapereira.pythonanywhere.com/" target="_blank">
+  <a href="https://anasantospereira.wixsite.com/anapereira" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
